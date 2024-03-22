@@ -1,0 +1,20 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Test 1.0
+---------------------------------------------------
+
+app_name - 						Test
+app_alias - 					test
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Oslo
+app_author_country - 			Philippines
+app_password - 					P7C2GT8bfnf3
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+
+
